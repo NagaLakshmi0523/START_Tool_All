@@ -1,0 +1,400 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{7D4C6EC8-AFEB-4075-963C-BDEC68F7E2F4}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>START_Tool</RootNamespace>
+    <AssemblyName>START_Tool</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <TargetFrameworkProfile />
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>false</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.1.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+    <RunCodeAnalysis>true</RunCodeAnalysis>
+    <CodeAnalysisIgnoreGeneratedCode>false</CodeAnalysisIgnoreGeneratedCode>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>false</SignManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignAssembly>false</SignAssembly>
+  </PropertyGroup>
+  <PropertyGroup>
+    <TargetZone>LocalIntranet</TargetZone>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>true</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup />
+  <PropertyGroup>
+    <ApplicationIcon>logo.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup />
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>20579B59F987DFD54DED47B55485A60673A50195</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>START_TOOL_TemporaryKey.pfx</ManifestKeyFile>
+  </PropertyGroup>
+  <PropertyGroup />
+  <PropertyGroup>
+    <StartupObject />
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationManifest>Properties\app.manifest</ApplicationManifest>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Newtonsoft.Json, Version=13.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <HintPath>packages\Newtonsoft.Json.13.0.1\lib\net45\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Management.Automation, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\Windows\assembly\GAC_MSIL\System.Management.Automation\1.0.0.0__31bf3856ad364e35\System.Management.Automation.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AppConstants.cs" />
+    <Compile Include="CipherConverter.cs" />
+    <Compile Include="CodeFile1.cs" />
+    <Compile Include="Download.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Download.Designer.cs">
+      <DependentUpon>Download.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FeedbackFormJapan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FeedbackFormJapan.designer.cs">
+      <DependentUpon>FeedbackFormJapan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FeedbackFormUKI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FeedbackFormUKI.designer.cs">
+      <DependentUpon>FeedbackFormUKI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FeedbackFormAUNZ.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FeedbackFormAUNZ.designer.cs">
+      <DependentUpon>FeedbackFormAUNZ.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FeedbackFormCHN.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FeedbackFormCHN.designer.cs">
+      <DependentUpon>FeedbackFormCHN.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FeedbackFormPH.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FeedbackFormPH.designer.cs">
+      <DependentUpon>FeedbackFormPH.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FeedbackFormSEA.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FeedbackFormSEA.designer.cs">
+      <DependentUpon>FeedbackFormSEA.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HomeFormAUNZ.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HomeFormAUNZ.designer.cs">
+      <DependentUpon>HomeFormAUNZ.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HomeFormCHN.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HomeFormCHN.designer.cs">
+      <DependentUpon>HomeFormCHN.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HomeFormJapan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HomeFormJapan.designer.cs">
+      <DependentUpon>HomeFormJapan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HomeFormUKI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HomeFormUKI.designer.cs">
+      <DependentUpon>HomeFormUKI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HomeFormPH.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HomeFormPH.designer.cs">
+      <DependentUpon>HomeFormPH.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HomeFormSEA.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HomeFormSEA.designer.cs">
+      <DependentUpon>HomeFormSEA.cs</DependentUpon>
+    </Compile>
+    <Compile Include="JSonConverterJapan.cs" />
+    <Compile Include="JSonConverterAUNZ.cs" />
+    <Compile Include="JSonConverterPH.cs" />
+    <Compile Include="JSonConverterUKI.cs" />
+    <Compile Include="JSonConverterCHN.cs" />
+    <Compile Include="JSonConverterSEA.cs" />
+    <Compile Include="JSonConverterIND.cs" />
+    <Compile Include="MainScreen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainScreen.Designer.cs">
+      <DependentUpon>MainScreen.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MessageForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MessageForm.Designer.cs">
+      <DependentUpon>MessageForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SelectRole.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SelectRole.Designer.cs">
+      <DependentUpon>SelectRole.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FeedbackFormIND.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FeedbackFormIND.Designer.cs">
+      <DependentUpon>FeedbackFormIND.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HomeFormInd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HomeFormInd.Designer.cs">
+      <DependentUpon>HomeFormInd.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Download.resx">
+      <DependentUpon>Download.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FeedbackFormJapan.resx">
+      <DependentUpon>FeedbackFormJapan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FeedbackFormUKI.resx">
+      <DependentUpon>FeedbackFormUKI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FeedbackFormAUNZ.resx">
+      <DependentUpon>FeedbackFormAUNZ.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FeedbackFormCHN.resx">
+      <DependentUpon>FeedbackFormCHN.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FeedbackFormPH.resx">
+      <DependentUpon>FeedbackFormPH.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FeedbackFormSEA.resx">
+      <DependentUpon>FeedbackFormSEA.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FeedbackFormIND.resx">
+      <DependentUpon>FeedbackFormIND.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HomeFormAUNZ.resx">
+      <DependentUpon>HomeFormAUNZ.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HomeFormCHN.resx">
+      <DependentUpon>HomeFormCHN.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HomeFormJapan.resx">
+      <DependentUpon>HomeFormJapan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HomeFormUKI.resx">
+      <DependentUpon>HomeFormUKI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HomeFormPH.resx">
+      <DependentUpon>HomeFormPH.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HomeFormSEA.resx">
+      <DependentUpon>HomeFormSEA.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HomeFormInd.resx">
+      <DependentUpon>HomeFormInd.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainScreen.resx">
+      <DependentUpon>MainScreen.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MessageForm.resx">
+      <DependentUpon>MessageForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="SelectRole.resx">
+      <DependentUpon>SelectRole.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="packages.config" />
+    <None Include="Properties\app.manifest" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <None Include="START_TOOL_TemporaryKey.pfx" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.8">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.8 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\mainform.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\frequentissue.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\performance.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\homeform1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Remotely_Icon.png" />
+    <None Include="indiaFlag.png" />
+    <Content Include="logo.ico" />
+    <None Include="Resources\Searchicon3.png" />
+    <None Include="Resources\Searchicon2.png" />
+    <None Include="Resources\Searchicon1.png" />
+    <None Include="Resources\Searchicon.png" />
+    <None Include="Resources\learning.png" />
+    <None Include="Resources\softpng.png" />
+    <None Include="Resources\Network issue new.png" />
+    <None Include="Resources\Asset Related.PNG" />
+    <None Include="Resources\pwd.png" />
+    <None Include="Resources\transfer.png" />
+    <None Include="Resources\assetreturn.png" />
+    <None Include="Resources\system.png" />
+    <None Include="Resources\pulsesecure.png" />
+    <None Include="Resources\guestuser.jpg" />
+    <None Include="Resources\wifi1.png" />
+    <None Include="Resources\wfh.jpg" />
+    <None Include="Resources\unsecuredevice.png" />
+    <None Include="Resources\Password reset new.png" />
+    <None Include="Resources\firewall.jpeg" />
+    <None Include="Resources\antivirus.jpg" />
+    <None Include="Resources\beyondTrustPMFixToolStripMenuItem.Image.jpg" />
+    <None Include="Resources\phishme.jpg" />
+    <None Include="Resources\tanium.png" />
+    <None Include="Resources\Quick Link new1.png" />
+    <None Include="Resources\Polling.png" />
+    <None Include="Resources\patching.png" />
+    <None Include="Resources\Gph.png" />
+    <None Include="Resources\toolStripMenuItem68.Image.jpg" />
+    <None Include="Resources\toolStripMenuItem60.Image.jpg" />
+    <None Include="Resources\vpn.png" />
+    <None Include="Resources\microsoft-teams.png" />
+    <None Include="Resources\admin.png" />
+    <None Include="Resources\Clear Save password New.png" />
+    <None Include="Resources\office.png" />
+    <None Include="Resources\password.png" />
+    <None Include="Resources\quickbtn.PNG" />
+    <None Include="Resources\citrix.png" />
+    <None Include="Resources\eso.png" />
+    <None Include="Resources\application issue new.png" />
+    <None Include="Resources\Viratul conference.PNG" />
+    <None Include="Resources\laptop.png" />
+    <None Include="Resources\os.png" />
+    <None Include="Resources\eeva.png" />
+    <None Include="Resources\Quick Link new.png" />
+    <None Include="Resources\ie.png" />
+    <None Include="Resources\edge1.png" />
+    <None Include="Resources\firefox.jpeg" />
+    <None Include="Resources\chrome.jpeg" />
+    <None Include="Resources\python.jpeg" />
+    <None Include="Resources\admin access new.png" />
+    <None Include="Resources\adobecloude.jpeg" />
+    <None Include="Resources\outlook.png" />
+    <None Include="Resources\adobeacrobat.png" />
+    <None Include="Resources\dlp.jpeg" />
+    <None Include="Resources\fp.png" />
+    <None Include="Resources\Non-complaince.PNG" />
+    <None Include="Resources\java-logo-vert-blk.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

@@ -1,0 +1,97 @@
+C:\Users\shubhangi.karwatkar\source\repos\shubhangi\QuickFixIT\bin\Debug\System.Management.Automation.dll
+C:\Users\shubhangi.karwatkar\source\repos\shubhangi\QuickFixIT\obj\Debug\START_TOOL.csproj.GenerateResource.cache
+C:\Users\shubhangi.karwatkar\source\repos\shubhangi\QuickFixIT\obj\Debug\START_TOOL.csproj.CoreCompileInputs.cache
+C:\Users\shubhangi.karwatkar\source\repos\shubhangi\QuickFixIT\obj\Debug\START_TOOL.csproj.CopyComplete
+C:\Users\shubhangi.karwatkar\source\repos\shubhangi\QuickFixIT\obj\Debug\START_Tool.FeedbackForm.resources
+C:\Users\shubhangi.karwatkar\source\repos\shubhangi\QuickFixIT\obj\Debug\START_Tool.HomeForm.resources
+C:\Users\shubhangi.karwatkar\source\repos\shubhangi\QuickFixIT\obj\Debug\START_Tool.SelectRole.resources
+C:\Users\shubhangi.karwatkar\source\repos\shubhangi\QuickFixIT\bin\Debug\START_Tool.exe.config
+C:\Users\shubhangi.karwatkar\source\repos\shubhangi\QuickFixIT\bin\Debug\START_Tool.exe
+C:\Users\shubhangi.karwatkar\source\repos\shubhangi\QuickFixIT\bin\Debug\START_Tool.pdb
+C:\Users\shubhangi.karwatkar\source\repos\shubhangi\QuickFixIT\obj\Debug\START_Tool.Properties.Resources.resources
+C:\Users\shubhangi.karwatkar\source\repos\shubhangi\QuickFixIT\obj\Debug\START_Tool.exe
+C:\Users\shubhangi.karwatkar\source\repos\shubhangi\QuickFixIT\obj\Debug\START_Tool.pdb
+C:\Users\shubhangi.karwatkar\source\repos\shubhangi\QuickFixIT\bin\Debug\START_Tool.exe.manifest
+C:\Users\shubhangi.karwatkar\source\repos\shubhangi\QuickFixIT\bin\Debug\START_Tool.application
+C:\Users\shubhangi.karwatkar\source\repos\shubhangi\QuickFixIT\obj\Debug\START_Tool.TrustInfo.xml
+C:\Users\shubhangi.karwatkar\source\repos\shubhangi\QuickFixIT\obj\Debug\START_Tool.exe.manifest
+C:\Users\shubhangi.karwatkar\source\repos\shubhangi\QuickFixIT\obj\Debug\START_Tool.application
+C:\Users\shubhangi.karwatkar\source\repos\shubhangi\QuickFixIT\obj\Debug\START_TOOL.csproj.AssemblyReference.cache
+C:\Users\rajanna.v.achanta\Downloads\START TOOL\START_sourceCode\2nd April'22\QuickFixIT\bin\Debug\START_Tool.exe.config
+C:\Users\rajanna.v.achanta\Downloads\START TOOL\START_sourceCode\2nd April'22\QuickFixIT\bin\Debug\START_Tool.exe.manifest
+C:\Users\rajanna.v.achanta\Downloads\START TOOL\START_sourceCode\2nd April'22\QuickFixIT\bin\Debug\START_Tool.application
+C:\Users\rajanna.v.achanta\Downloads\START TOOL\START_sourceCode\2nd April'22\QuickFixIT\bin\Debug\START_Tool.exe
+C:\Users\rajanna.v.achanta\Downloads\START TOOL\START_sourceCode\2nd April'22\QuickFixIT\bin\Debug\START_Tool.pdb
+C:\Users\rajanna.v.achanta\Downloads\START TOOL\START_sourceCode\2nd April'22\QuickFixIT\obj\Debug\START_TOOL.csproj.AssemblyReference.cache
+C:\Users\rajanna.v.achanta\Downloads\START TOOL\START_sourceCode\2nd April'22\QuickFixIT\obj\Debug\START_TOOL.csproj.SuggestedBindingRedirects.cache
+C:\Users\rajanna.v.achanta\Downloads\START TOOL\START_sourceCode\2nd April'22\QuickFixIT\obj\Debug\START_Tool.FeedbackForm.resources
+C:\Users\rajanna.v.achanta\Downloads\START TOOL\START_sourceCode\2nd April'22\QuickFixIT\obj\Debug\START_Tool.HomeForm.resources
+C:\Users\rajanna.v.achanta\Downloads\START TOOL\START_sourceCode\2nd April'22\QuickFixIT\obj\Debug\START_Tool.Properties.Resources.resources
+C:\Users\rajanna.v.achanta\Downloads\START TOOL\START_sourceCode\2nd April'22\QuickFixIT\obj\Debug\START_Tool.SelectRole.resources
+C:\Users\rajanna.v.achanta\Downloads\START TOOL\START_sourceCode\2nd April'22\QuickFixIT\obj\Debug\START_TOOL.csproj.GenerateResource.cache
+C:\Users\rajanna.v.achanta\Downloads\START TOOL\START_sourceCode\2nd April'22\QuickFixIT\obj\Debug\START_TOOL.csproj.CoreCompileInputs.cache
+C:\Users\rajanna.v.achanta\Downloads\START TOOL\START_sourceCode\2nd April'22\QuickFixIT\obj\Debug\START_Tool.TrustInfo.xml
+C:\Users\rajanna.v.achanta\Downloads\START TOOL\START_sourceCode\2nd April'22\QuickFixIT\obj\Debug\START_Tool.exe.manifest
+C:\Users\rajanna.v.achanta\Downloads\START TOOL\START_sourceCode\2nd April'22\QuickFixIT\obj\Debug\START_Tool.application
+C:\Users\rajanna.v.achanta\Downloads\START TOOL\START_sourceCode\2nd April'22\QuickFixIT\obj\Debug\START_Tool.exe
+C:\Users\rajanna.v.achanta\Downloads\START TOOL\START_sourceCode\2nd April'22\QuickFixIT\obj\Debug\START_Tool.pdb
+C:\Users\shubhangi.karwatkar\Downloads\QuickFixIT\QuickFixIT\bin\Debug\START_Tool.exe.config
+C:\Users\shubhangi.karwatkar\Downloads\QuickFixIT\QuickFixIT\bin\Debug\START_Tool.exe.manifest
+C:\Users\shubhangi.karwatkar\Downloads\QuickFixIT\QuickFixIT\bin\Debug\START_Tool.application
+C:\Users\shubhangi.karwatkar\Downloads\QuickFixIT\QuickFixIT\bin\Debug\START_Tool.exe
+C:\Users\shubhangi.karwatkar\Downloads\QuickFixIT\QuickFixIT\bin\Debug\START_Tool.pdb
+C:\Users\shubhangi.karwatkar\Downloads\QuickFixIT\QuickFixIT\bin\Debug\System.Management.Automation.dll
+C:\Users\shubhangi.karwatkar\Downloads\QuickFixIT\QuickFixIT\obj\Debug\START_Tool.Download.resources
+C:\Users\shubhangi.karwatkar\Downloads\QuickFixIT\QuickFixIT\obj\Debug\START_Tool.FeedbackForm.resources
+C:\Users\shubhangi.karwatkar\Downloads\QuickFixIT\QuickFixIT\obj\Debug\START_Tool.HomeForm.resources
+C:\Users\shubhangi.karwatkar\Downloads\QuickFixIT\QuickFixIT\obj\Debug\START_Tool.MessageForm.resources
+C:\Users\shubhangi.karwatkar\Downloads\QuickFixIT\QuickFixIT\obj\Debug\START_Tool.Properties.Resources.resources
+C:\Users\shubhangi.karwatkar\Downloads\QuickFixIT\QuickFixIT\obj\Debug\START_Tool.SelectRole.resources
+C:\Users\shubhangi.karwatkar\Downloads\QuickFixIT\QuickFixIT\obj\Debug\START_TOOL.csproj.GenerateResource.cache
+C:\Users\shubhangi.karwatkar\Downloads\QuickFixIT\QuickFixIT\obj\Debug\START_TOOL.csproj.CoreCompileInputs.cache
+C:\Users\shubhangi.karwatkar\Downloads\QuickFixIT\QuickFixIT\obj\Debug\START_Tool.TrustInfo.xml
+C:\Users\shubhangi.karwatkar\Downloads\QuickFixIT\QuickFixIT\obj\Debug\START_Tool.exe.manifest
+C:\Users\shubhangi.karwatkar\Downloads\QuickFixIT\QuickFixIT\obj\Debug\START_Tool.application
+C:\Users\shubhangi.karwatkar\Downloads\QuickFixIT\QuickFixIT\obj\Debug\START_TOOL.csproj.CopyComplete
+C:\Users\shubhangi.karwatkar\Downloads\QuickFixIT\QuickFixIT\obj\Debug\START_Tool.exe
+C:\Users\shubhangi.karwatkar\Downloads\QuickFixIT\QuickFixIT\obj\Debug\START_Tool.pdb
+C:\Users\shubhangi.karwatkar\Downloads\download (1)\QuickFixIT (2)\QuickFixIT\QuickFixIT\bin\Debug\START_Tool.exe.config
+C:\Users\shubhangi.karwatkar\Downloads\download (1)\QuickFixIT (2)\QuickFixIT\QuickFixIT\bin\Debug\START_Tool.exe.manifest
+C:\Users\shubhangi.karwatkar\Downloads\download (1)\QuickFixIT (2)\QuickFixIT\QuickFixIT\bin\Debug\START_Tool.application
+C:\Users\shubhangi.karwatkar\Downloads\download (1)\QuickFixIT (2)\QuickFixIT\QuickFixIT\bin\Debug\START_Tool.exe
+C:\Users\shubhangi.karwatkar\Downloads\download (1)\QuickFixIT (2)\QuickFixIT\QuickFixIT\bin\Debug\START_Tool.pdb
+C:\Users\shubhangi.karwatkar\Downloads\download (1)\QuickFixIT (2)\QuickFixIT\QuickFixIT\obj\Debug\START_TOOL.csproj.AssemblyReference.cache
+C:\Users\shubhangi.karwatkar\Downloads\download (1)\QuickFixIT (2)\QuickFixIT\QuickFixIT\obj\Debug\START_TOOL.csproj.SuggestedBindingRedirects.cache
+C:\Users\shubhangi.karwatkar\Downloads\download (1)\QuickFixIT (2)\QuickFixIT\QuickFixIT\obj\Debug\START_Tool.Download.resources
+C:\Users\shubhangi.karwatkar\Downloads\download (1)\QuickFixIT (2)\QuickFixIT\QuickFixIT\obj\Debug\START_Tool.FeedbackForm.resources
+C:\Users\shubhangi.karwatkar\Downloads\download (1)\QuickFixIT (2)\QuickFixIT\QuickFixIT\obj\Debug\START_Tool.HomeForm.resources
+C:\Users\shubhangi.karwatkar\Downloads\download (1)\QuickFixIT (2)\QuickFixIT\QuickFixIT\obj\Debug\START_Tool.MessageForm.resources
+C:\Users\shubhangi.karwatkar\Downloads\download (1)\QuickFixIT (2)\QuickFixIT\QuickFixIT\obj\Debug\START_Tool.Properties.Resources.resources
+C:\Users\shubhangi.karwatkar\Downloads\download (1)\QuickFixIT (2)\QuickFixIT\QuickFixIT\obj\Debug\START_Tool.SelectRole.resources
+C:\Users\shubhangi.karwatkar\Downloads\download (1)\QuickFixIT (2)\QuickFixIT\QuickFixIT\obj\Debug\START_TOOL.csproj.GenerateResource.cache
+C:\Users\shubhangi.karwatkar\Downloads\download (1)\QuickFixIT (2)\QuickFixIT\QuickFixIT\obj\Debug\START_TOOL.csproj.CoreCompileInputs.cache
+C:\Users\shubhangi.karwatkar\Downloads\download (1)\QuickFixIT (2)\QuickFixIT\QuickFixIT\obj\Debug\START_Tool.TrustInfo.xml
+C:\Users\shubhangi.karwatkar\Downloads\download (1)\QuickFixIT (2)\QuickFixIT\QuickFixIT\obj\Debug\START_Tool.exe.manifest
+C:\Users\shubhangi.karwatkar\Downloads\download (1)\QuickFixIT (2)\QuickFixIT\QuickFixIT\obj\Debug\START_Tool.application
+C:\Users\shubhangi.karwatkar\Downloads\download (1)\QuickFixIT (2)\QuickFixIT\QuickFixIT\obj\Debug\START_Tool.exe
+C:\Users\shubhangi.karwatkar\Downloads\download (1)\QuickFixIT (2)\QuickFixIT\QuickFixIT\obj\Debug\START_Tool.pdb
+C:\Users\shubhangi.karwatkar\source\repos\QuickFixIT (2)\QuickFixIT\QuickFixIT\bin\Debug\START_Tool.exe.config
+C:\Users\shubhangi.karwatkar\source\repos\QuickFixIT (2)\QuickFixIT\QuickFixIT\bin\Debug\START_Tool.exe.manifest
+C:\Users\shubhangi.karwatkar\source\repos\QuickFixIT (2)\QuickFixIT\QuickFixIT\bin\Debug\START_Tool.application
+C:\Users\shubhangi.karwatkar\source\repos\QuickFixIT (2)\QuickFixIT\QuickFixIT\bin\Debug\START_Tool.exe
+C:\Users\shubhangi.karwatkar\source\repos\QuickFixIT (2)\QuickFixIT\QuickFixIT\bin\Debug\START_Tool.pdb
+C:\Users\shubhangi.karwatkar\source\repos\QuickFixIT (2)\QuickFixIT\QuickFixIT\obj\Debug\START_TOOL.csproj.AssemblyReference.cache
+C:\Users\shubhangi.karwatkar\source\repos\QuickFixIT (2)\QuickFixIT\QuickFixIT\obj\Debug\START_TOOL.csproj.SuggestedBindingRedirects.cache
+C:\Users\shubhangi.karwatkar\source\repos\QuickFixIT (2)\QuickFixIT\QuickFixIT\obj\Debug\START_Tool.Download.resources
+C:\Users\shubhangi.karwatkar\source\repos\QuickFixIT (2)\QuickFixIT\QuickFixIT\obj\Debug\START_Tool.FeedbackForm.resources
+C:\Users\shubhangi.karwatkar\source\repos\QuickFixIT (2)\QuickFixIT\QuickFixIT\obj\Debug\START_Tool.HomeForm.resources
+C:\Users\shubhangi.karwatkar\source\repos\QuickFixIT (2)\QuickFixIT\QuickFixIT\obj\Debug\START_Tool.MessageForm.resources
+C:\Users\shubhangi.karwatkar\source\repos\QuickFixIT (2)\QuickFixIT\QuickFixIT\obj\Debug\START_Tool.Properties.Resources.resources
+C:\Users\shubhangi.karwatkar\source\repos\QuickFixIT (2)\QuickFixIT\QuickFixIT\obj\Debug\START_Tool.SelectRole.resources
+C:\Users\shubhangi.karwatkar\source\repos\QuickFixIT (2)\QuickFixIT\QuickFixIT\obj\Debug\START_TOOL.csproj.GenerateResource.cache
+C:\Users\shubhangi.karwatkar\source\repos\QuickFixIT (2)\QuickFixIT\QuickFixIT\obj\Debug\START_TOOL.csproj.CoreCompileInputs.cache
+C:\Users\shubhangi.karwatkar\source\repos\QuickFixIT (2)\QuickFixIT\QuickFixIT\obj\Debug\START_Tool.TrustInfo.xml
+C:\Users\shubhangi.karwatkar\source\repos\QuickFixIT (2)\QuickFixIT\QuickFixIT\obj\Debug\START_Tool.exe.manifest
+C:\Users\shubhangi.karwatkar\source\repos\QuickFixIT (2)\QuickFixIT\QuickFixIT\obj\Debug\START_Tool.application
+C:\Users\shubhangi.karwatkar\source\repos\QuickFixIT (2)\QuickFixIT\QuickFixIT\obj\Debug\START_Tool.exe
+C:\Users\shubhangi.karwatkar\source\repos\QuickFixIT (2)\QuickFixIT\QuickFixIT\obj\Debug\START_Tool.pdb

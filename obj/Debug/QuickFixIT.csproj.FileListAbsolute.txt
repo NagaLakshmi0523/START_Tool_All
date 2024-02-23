@@ -1,0 +1,16 @@
+C:\Users\shubhangi.karwatkar\source\repos\shubhangi\QuickFixIT\bin\Debug\QuickFixIT.exe.config
+C:\Users\shubhangi.karwatkar\source\repos\shubhangi\QuickFixIT\bin\Debug\QuickFixIT.exe
+C:\Users\shubhangi.karwatkar\source\repos\shubhangi\QuickFixIT\bin\Debug\QuickFixIT.pdb
+C:\Users\shubhangi.karwatkar\source\repos\shubhangi\QuickFixIT\obj\Debug\QuickFixIT.Properties.Resources.resources
+C:\Users\shubhangi.karwatkar\source\repos\shubhangi\QuickFixIT\obj\Debug\QuickFixIT.csproj.GenerateResource.cache
+C:\Users\shubhangi.karwatkar\source\repos\shubhangi\QuickFixIT\obj\Debug\QuickFixIT.csproj.CoreCompileInputs.cache
+C:\Users\shubhangi.karwatkar\source\repos\shubhangi\QuickFixIT\obj\Debug\QuickFixIT.exe
+C:\Users\shubhangi.karwatkar\source\repos\shubhangi\QuickFixIT\obj\Debug\QuickFixIT.pdb
+C:\Users\shubhangi.karwatkar\source\repos\shubhangi\QuickFixIT\bin\Debug\System.Management.Automation.dll
+C:\Users\shubhangi.karwatkar\source\repos\shubhangi\QuickFixIT\obj\Debug\QuickFixIT.csproj.CopyComplete
+C:\Users\shubhangi.karwatkar\source\repos\shubhangi\QuickFixIT\obj\Debug\QuickFixIT.FeedbackForm.resources
+C:\Users\shubhangi.karwatkar\source\repos\shubhangi\QuickFixIT\obj\Debug\QuickFixIT.Form12.resources
+C:\Users\shubhangi.karwatkar\source\repos\shubhangi\QuickFixIT\obj\Debug\QuickFixIT.Form2.resources
+C:\Users\shubhangi.karwatkar\source\repos\shubhangi\QuickFixIT\obj\Debug\QuickFixIT.LoginForm.resources
+C:\Users\shubhangi.karwatkar\source\repos\shubhangi\QuickFixIT\obj\Debug\QuickFixIT.HomeForm.resources
+C:\Users\shubhangi.karwatkar\source\repos\shubhangi\QuickFixIT\obj\Debug\QuickFixIT.SelectRole.resources
